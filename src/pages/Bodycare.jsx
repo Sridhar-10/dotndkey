@@ -40,7 +40,7 @@ const Bodycare = () => {
         <br/>
         <Flex align="center" justify="center" gap={35}>
                 <Box h='auto' w={300} boxShadow= 'rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px'>
-                    <Image src='https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-14.jpg?v=1646477249' w='100%'/>
+                    <Image src='https://cdn.shopify.com/s/files/1/0361/8553/8692/products/LEMONSCRUB.jpg?v=1655303198' w='100%'/>
                     <Text as='abbr'>Vitamin C & Avalon Lemon</Text>
                     <br/>
                     <Text as='abbr'>Sugar Body Scrub</Text>
@@ -79,7 +79,7 @@ const Bodycare = () => {
         <Flex align="center" justify="center" gap={35}>
             <Link to="/product">
                     <Box h='auto' w={300} boxShadow= 'rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px'>
-                        <Image src='https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-3_5_1f30698f-72cf-4165-8bca-302aa29817e2.jpg?v=1646477193' w='100%'/>
+                        <Image src='https://cdn.shopify.com/s/files/1/0361/8553/8692/products/ROSELOTION.jpg?v=1655303248' w='100%'/>
                         <Text as='abbr'>Damask Rose & Lavender</Text>
                         <br/>
                         <Text as='abbr'>Hydrating Hyaluronic Body Lotion</Text>
@@ -93,7 +93,7 @@ const Bodycare = () => {
                     </Box>
             </Link>
                 <Box h='auto' w={300} boxShadow= 'rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px'>
-                    <Image src='https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-11_2.jpg?v=1646477397' w='100%'/>
+                    <Image src='https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-11_1_1.jpg?v=1655310547' w='100%'/>
                     <Text as='abbr'>Avalon Lemon & Verbena</Text>
                     <br/>
                     <Text as='abbr'>Vitamin C Glow Body Lotion</Text>

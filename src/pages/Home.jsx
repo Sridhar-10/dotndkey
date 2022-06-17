@@ -60,7 +60,7 @@ const Home = () => {
             <Button w="100%" bgColor='black'color='white'>ADD TO CART</Button>
           </Box>
           <Box h='auto' w={300} boxShadow= 'rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px'>
-            <Image src='https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Artboard1-2.jpg?v=1649323852' w='100%'/>
+            <Image src='https://cdn.shopify.com/s/files/1/0361/8553/8692/products/PROBIOTICS.jpg?v=1655302709' w='100%'/>
             <Text as='abbr'>CICA Niacinamide Night Gel With Green Tea, Tea Tree Oil & Hyaluronic| Reduces...</Text>
             <br/>
             <Flex align="center" justify="center" gap={25}>
@@ -82,7 +82,7 @@ const Home = () => {
             <Button w="100%" bgColor='black'color='white'>ADD TO CART</Button>
           </Box>
           <Box h='auto' w={300} boxShadow= 'rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px'>
-            <Image src='https://cdn.shopify.com/s/files/1/0361/8553/8692/products/Untitled-1_e13fe0e4-6313-45f1-b5f6-fe829a4c5dec.jpg?v=1650465566' w='100%'/>
+            <Image src='https://cdn.shopify.com/s/files/1/0361/8553/8692/products/1-GreenClayListing_1.jpg?v=1649655908' w='100%'/>
             <Text as='abbr'>20% Vitamin C Serum with Blood Orange | For Skin Glow | Fades Pigmentation...</Text>
             <br/>
             <Flex align="center" justify="center" gap={25}>
